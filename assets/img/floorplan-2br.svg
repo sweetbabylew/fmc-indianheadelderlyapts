@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1144" viewBox="0 0 1500 1144" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Indian Head Elderly Apartments two-bedroom floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="20" y="31" width="1459" height="1090"/>
+<path class="w" d="M187,22 V39 M187,438 V643 M187,765 V797 M187,1113 V1129 M436,22 V40 M436,594 V612 M436,778 V1129 M479,21 V611 M479,778 V795 M479,1113 V1129 M813,23 V39 M813,438 V610 M813,780 V1130 M983,21 V605 M983,788 V1131 M12,448 H53 M160,448 H195 M472,448 H486 M804,448 H843 M949,448 H991 M1472,448 H1487 M11,600 H327 M430,600 H624 M732,600 H989 M1472,600 H1487 M12,786 H260 M364,786 H691 M796,786 H821 M1472,786 H1487"/>
+<path class="win" d="M187,26 H309 M187,31 H309 M187,36 H309 M187,24 V38 M309,24 V38"/>
+<path class="win" d="M671,26 H790 M671,31 H790 M671,36 H790 M671,24 V38 M790,24 V38"/>
+<path class="win" d="M1234,26 H1371 M1234,31 H1371 M1234,36 H1371 M1234,24 V38 M1371,24 V38"/>
+<path class="arc" d="M840,1121 V1001 M840,1001 A120,120 0 0 1 960,1121"/>
+<path class="wo" d="M20,31 H187 M309,31 H671 M790,31 H1234 M1371,31 H1479 V1121 H960 M840,1121 H20 V31"/>
+<text class="rm" x="250" y="314">Bedroom</text>
+<text class="rm" x="729" y="314">Bedroom</text>
+<text class="rm" x="1221" y="293">Living Room</text>
+<text class="rm" x="1271" y="879">Kitchen</text>
+<text class="rm" x="214" y="936">Bathroom</text>
+<text class="cl" x="564" y="700">Hallway</text>
+<text class="cl" x="657" y="964">Closet</text>
+<text class="sm" x="100" y="679">Closet</text>
+</svg>

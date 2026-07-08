@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="843" viewBox="0 0 1050 843" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Indian Head Elderly Apartments one-bedroom floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="10" y="15" width="1011" height="792"/>
+<path class="w" d="M549,25 V174 M549,331 V795 M748,11 V54 M748,141 V316 M748,403 V509 M742,183 H1024 M549,405 H600 M700,405 H739 M742,405 H1024 M756,511 H819 M971,511 H1024"/>
+<path class="d" d="M549,792 V811 M748,394 V408 M977,183 H992 M1007,183 H1021 M739,405 H761 M1003,405 H1018 M737,511 H760"/>
+<path class="arc" d="M601,15 V136 M601,136 A121,121 0 0 0 722,15"/>
+<path class="win" d="M282,802 H402 M282,807 H402 M282,812 H402 M282,800 V814 M402,800 V814"/>
+<path class="win" d="M727,802 H845 M727,807 H845 M727,812 H845 M727,800 V814 M845,800 V814"/>
+<path class="wo" d="M10,15 H601 M722,15 H1021 V807 H845 M727,807 H402 M282,807 H10 V15"/>
+<text class="rm" x="245" y="165">Kitchen</text>
+<text class="rm" x="245" y="690">Living Room</text>
+<text class="rm" x="660" y="230">Hall</text>
+<text class="rm" x="815" y="660">Bedroom</text>
+<text class="cl" x="895" y="295">Bathroom</text>
+<text class="cl" x="895" y="120">Closet</text>
+<text class="cl" x="890" y="460">Closet</text>
+</svg>
