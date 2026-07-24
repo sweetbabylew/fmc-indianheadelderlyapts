@@ -1,27 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="843" viewBox="0 0 1050 843" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Indian Head Elderly Apartments one-bedroom floor plan">
+<svg xmlns="http://www.w3.org/2000/svg" width="1460" height="1172" viewBox="0 0 1460 1172" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Indian Head Elderly Apartments one-bedroom floor plan">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="10" y="15" width="1011" height="792"/>
-<path class="w" d="M549,25 V174 M549,331 V795 M748,11 V54 M748,141 V316 M748,403 V509 M742,183 H1024 M549,405 H600 M700,405 H739 M742,405 H1024 M756,511 H819 M971,511 H1024"/>
-<path class="d" d="M549,792 V811 M748,394 V408 M977,183 H992 M1007,183 H1021 M739,405 H761 M1003,405 H1018 M737,511 H760"/>
-<path class="arc" d="M601,15 V136 M601,136 A121,121 0 0 0 722,15"/>
-<path class="win" d="M282,802 H402 M282,807 H402 M282,812 H402 M282,800 V814 M402,800 V814"/>
-<path class="win" d="M727,802 H845 M727,807 H845 M727,812 H845 M727,800 V814 M845,800 V814"/>
-<path class="wo" d="M10,15 H601 M722,15 H1021 V807 H845 M727,807 H402 M282,807 H10 V15"/>
-<text class="rm" x="245" y="165">Kitchen</text>
-<text class="rm" x="245" y="690">Living Room</text>
-<text class="rm" x="660" y="230">Hall</text>
-<text class="rm" x="815" y="660">Bedroom</text>
-<text class="cl" x="895" y="295">Bathroom</text>
-<text class="cl" x="895" y="120">Closet</text>
-<text class="cl" x="890" y="460">Closet</text>
+<rect class="fp" x="13" y="21" width="1400" height="1103"/>
+<path class="w" d="M764,30 V241 M764,465 V1104 M1040,15 V75 M1040,196 V437 M1040,573 V708 M0,255 H16 M1031,255 H1416 M0,571 H16 M763,571 H835 M976,571 H1028 M1036,571 H1411 M0,709 H16 M763,709 H776 M1031,709 H1048 M1051,709 H1141 M1351,709 H1416"/>
+<path class="d" d="M756,254 V461 M772,254 V461 M1032,90 V193 M1048,90 V193 M1032,454 V568 M1048,454 V568 M838,563 H957 M838,579 H957 M1158,701 H1349 M1158,717 H1349"/>
+<path class="arc" d="M1002,21 V187 M836,21 A166,166 0 0 0 1002,187"/>
+<path class="win" d="M392,1119 H559 M392,1124 H559 M392,1129 H559 M392,1117 V1131 M559,1117 V1131"/>
+<path class="win" d="M1012,1119 H1175 M1012,1124 H1175 M1012,1129 H1175 M1012,1117 V1131 M1175,1117 V1131"/>
+<path class="wo" d="M13,21 H836 M1002,21 H1413 V1124 H1175 M1012,1124 H559 M392,1124 H13 V21"/>
+<text class="rm" x="335" y="229">Kitchen</text>
+<text class="rm" x="335" y="961">Living Room</text>
+<text class="rm" x="917" y="320">Hall</text>
+<text class="rm" x="1133" y="919">Bedroom</text>
+<text class="cl" x="1246" y="166">Closet</text>
+<text class="cl" x="1246" y="410">Bathroom</text>
+<text class="cl" x="1239" y="640">Closet</text>
 </svg>

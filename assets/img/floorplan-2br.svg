@@ -1,28 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1144" viewBox="0 0 1500 1144" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Indian Head Elderly Apartments two-bedroom floor plan">
+<svg xmlns="http://www.w3.org/2000/svg" width="1965" height="1317" viewBox="0 0 1965 1317" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Indian Head Elderly Apartments two-bedroom floor plan">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="20" y="31" width="1459" height="1090"/>
-<path class="w" d="M187,22 V39 M187,438 V643 M187,765 V797 M187,1113 V1129 M436,22 V40 M436,594 V612 M436,778 V1129 M479,21 V611 M479,778 V795 M479,1113 V1129 M813,23 V39 M813,438 V610 M813,780 V1130 M983,21 V605 M983,788 V1131 M12,448 H53 M160,448 H195 M472,448 H486 M804,448 H843 M949,448 H991 M1472,448 H1487 M11,600 H327 M430,600 H624 M732,600 H989 M1472,600 H1487 M12,786 H260 M364,786 H691 M796,786 H821 M1472,786 H1487"/>
-<path class="win" d="M187,26 H309 M187,31 H309 M187,36 H309 M187,24 V38 M309,24 V38"/>
-<path class="win" d="M671,26 H790 M671,31 H790 M671,36 H790 M671,24 V38 M790,24 V38"/>
-<path class="win" d="M1234,26 H1371 M1234,31 H1371 M1234,36 H1371 M1234,24 V38 M1371,24 V38"/>
-<path class="arc" d="M840,1121 V1001 M840,1001 A120,120 0 0 1 960,1121"/>
-<path class="wo" d="M20,31 H187 M309,31 H671 M790,31 H1234 M1371,31 H1479 V1121 H960 M840,1121 H20 V31"/>
-<text class="rm" x="250" y="314">Bedroom</text>
-<text class="rm" x="729" y="314">Bedroom</text>
-<text class="rm" x="1221" y="293">Living Room</text>
-<text class="rm" x="1271" y="879">Kitchen</text>
-<text class="rm" x="214" y="936">Bathroom</text>
-<text class="cl" x="564" y="700">Hallway</text>
-<text class="cl" x="657" y="964">Closet</text>
-<text class="sm" x="100" y="679">Closet</text>
+<rect class="fp" x="21" y="31" width="1918" height="1261"/>
+<path class="w" d="M241,507 V740 M241,882 V914 M241,1284 V1298 M571,24 V41 M571,684 V698 M571,897 V1289 M625,24 V701 M625,900 V914 M625,1284 V1298 M1066,24 V41 M1066,507 V698 M1066,909 V1287 M1285,24 V698 M1285,909 V1287 M15,514 H65 M207,514 H248 M618,514 H632 M1059,514 H1100 M1242,514 H1292 M1932,514 H1946 M15,691 H230 M234,691 H248 M252,691 H422 M564,691 H815 M957,691 H1283 M1932,691 H1946 M15,906 H335 M477,906 H902 M1044,906 H1073 M1932,906 H1946"/>
+<path class="d" d="M233,740 V882 M249,740 V882 M65,506 H207 M65,522 H207 M1100,506 H1242 M1100,522 H1242 M422,683 H564 M422,699 H564 M815,683 H957 M815,699 H957 M335,898 H477 M335,914 H477 M902,898 H1044 M902,914 H1044"/>
+<path class="win" d="M239,26 H408 M239,31 H408 M239,36 H408 M239,24 V38 M408,24 V38"/>
+<path class="win" d="M872,26 H1038 M872,31 H1038 M872,36 H1038 M872,24 V38 M1038,24 V38"/>
+<path class="win" d="M1613,26 H1803 M1613,31 H1803 M1613,36 H1803 M1613,24 V38 M1803,24 V38"/>
+<path class="arc" d="M1097,1292 V1129 M1097,1129 A163,163 0 0 1 1260,1292"/>
+<path class="wo" d="M21,31 H239 M408,31 H872 M1038,31 H1613 M1803,31 H1939 V1292 H1260 M1097,1292 H21 V31"/>
+<text class="rm" x="335" y="369">Bedroom</text>
+<text class="rm" x="945" y="369">Bedroom</text>
+<text class="rm" x="1604" y="343">Living Room</text>
+<text class="rm" x="1661" y="1019">Kitchen</text>
+<text class="rm" x="287" y="1090">Bathroom</text>
+<text class="cl" x="756" y="807">Hallway</text>
+<text class="cl" x="855" y="1112">Closet</text>
+<text class="cl" x="130" y="781">Closet</text>
 </svg>
